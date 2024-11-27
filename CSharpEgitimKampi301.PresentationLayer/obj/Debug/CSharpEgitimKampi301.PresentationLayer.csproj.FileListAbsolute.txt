@@ -1,0 +1,16 @@
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.exe.config
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.exe
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.pdb
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.Properties.Resources.resources
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.exe
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.pdb
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.dll
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.pdb
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEg.3E4FD578.Up2Date
