@@ -1,0 +1,15 @@
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.dll
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.pdb
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.DataAccesLayer.dll
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.DataAccesLayer.pdb
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.DataAccesLayer.dll.config
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEg.D5C6C7B9.Up2Date
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.dll
+C:\Users\yigit\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.pdb
